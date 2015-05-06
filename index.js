@@ -73,5 +73,4 @@ var transferCheck = setInterval(function(){
 	});
 
 
-
 }, 200);
