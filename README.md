@@ -23,7 +23,7 @@ Once you have a clean install of a Raspberry Pi running Noobs update it by runni
 	touch index.js
 	nano index.js
 
-## Add btsync repo manually
+## Add btsync repo manually and install
 
 Follow these instruction https://melgrubb.wordpress.com/2014/08/03/raspberry-pi-home-server-part-14-bittorrent-sync/
 
